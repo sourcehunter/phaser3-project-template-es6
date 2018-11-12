@@ -1,6 +1,6 @@
-# Phaser 3 Webpack Project Template
+# Phaser 3 Webpack Project Template with ES6 Support
 
-A Phaser 3 Project Template
+A Phaser 3 Project Template. Added ES6 Support with Babel. 
 
 ### Requirements
 
